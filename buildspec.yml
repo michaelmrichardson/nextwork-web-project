@@ -22,3 +22,4 @@ artifacts:
     - target/nextwork-web-project.war
   discard-paths: no
 
+
